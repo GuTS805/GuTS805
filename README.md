@@ -12,8 +12,13 @@
 ![](https://streak-stats.demolab.com/?user=guts805&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=guts805&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=guts805&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+## 🏆 Open Source Contributions
+
+[![AnkiDroid](https://github-readme-stats.vercel.app/api/pin/?username=ankidroid&repo=Anki-Android&theme=dark)](https://github.com/ankidroid/Anki-Android)
+
+[![JoinMarket](https://github-readme-stats.vercel.app/api/pin/?username=joinmarket-webui&repo=jam&theme=dark)](https://github.com/joinmarket-webui/jam)
+
+[![Floresta](https://github-readme-stats.vercel.app/api/pin/?username=vinteumorg&repo=Floresta&theme=dark)](https://github.com/vinteumorg/Floresta)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=GuTS805&color=blue&style=flat-square)
