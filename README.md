@@ -14,11 +14,20 @@
 
 ## 🏆 Open Source Contributions
 
-[![AnkiDroid](https://github-readme-stats.vercel.app/api/pin/?username=ankidroid&repo=Anki-Android&theme=dark)](https://github.com/ankidroid/Anki-Android)
+### 📱 AnkiDroid
+[![AnkiDroid](https://img.shields.io/badge/AnkiDroid-Android%20Development-4285F4?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ankidroid/Anki-Android)
 
-[![JoinMarket](https://github-readme-stats.vercel.app/api/pin/?username=joinmarket-webui&repo=jam&theme=dark)](https://github.com/joinmarket-webui/jam)
+Contributing to AnkiDroid through bug fixes, improvements, and automated testing.
 
-[![Floresta](https://github-readme-stats.vercel.app/api/pin/?username=vinteumorg&repo=Floresta&theme=dark)](https://github.com/vinteumorg/Floresta)
+### ₿ JoinMarket (JAM)
+[![JoinMarket](https://img.shields.io/badge/JoinMarket-Bitcoin%20Privacy-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/joinmarket-webui/jam)
+
+Contributing to Bitcoin privacy infrastructure through open-source development.
+
+### 🦀 Floresta
+[![Floresta](https://img.shields.io/badge/Floresta-Bitcoin%20%7C%20Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/vinteumorg/Floresta)
+
+Working on Bitcoin infrastructure using Rust.
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=GuTS805&color=blue&style=flat-square)
